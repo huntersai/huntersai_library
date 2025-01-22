@@ -15,7 +15,7 @@ HunterAIClient is a Python library designed to interact with the HunterAI API. T
 ---
 
 ## Requirements
-
+- **$500 USD($Hunter), if more user $100,, less
 - **Python Version**: 3.8 or later
 - **Dependencies**:
   - `requests` library for HTTP operations
@@ -23,4 +23,6 @@ HunterAIClient is a Python library designed to interact with the HunterAI API. T
 Install the required dependencies using:
 ```bash
 pip install requests
+
+
 
